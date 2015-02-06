@@ -29,26 +29,10 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 import com.test.shiro.util.VerifyCodeUtil;
 
 
-/**
+
+/**shiro 相关概念:</br>
+ * http://shenbai.iteye.com/blog/1466255</br>
  * 本例中用到的jar文件如下
- * @see aopalliance.jar
- * @see commons-lang3-3.1.jar
- * @see commons-logging-1.1.2.jar
- * @see log4j-1.2.17.jar
- * @see shiro-all-1.2.2.jar
- * @see slf4j-api-1.7.5.jar
- * @see slf4j-log4j12-1.7.5.jar
- * @see spring-aop-3.2.4.RELEASE.jar
- * @see spring-beans-3.2.4.RELEASE.jar
- * @see spring-context-3.2.4.RELEASE.jar
- * @see spring-core-3.2.4.RELEASE.jar
- * @see spring-expression-3.2.4.RELEASE.jar
- * @see spring-jdbc-3.2.4.RELEASE.jar
- * @see spring-oxm-3.2.4.RELEASE.jar
- * @see spring-tx-3.2.4.RELEASE.jar
- * @see spring-web-3.2.4.RELEASE.jar
- * @see spring-webmvc-3.2.4.RELEASE.jar
- * @create Sep 30, 2013 11:10:06 PM
  * @author 玄玉<http://blog.csdn.net/jadyer>
  */
 @Controller

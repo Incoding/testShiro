@@ -77,6 +77,7 @@
 			<value>
 				/mydemo/login=anon
 				/mydemo/getVerifyCodeImage=anon
+				/mydemo/getUserInfo=authc
 				/main**=authc
 				/user/info**=authc
 				/admin/listUser**=authc,perms[admin:manage]
